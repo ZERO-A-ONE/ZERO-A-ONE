@@ -6,7 +6,9 @@
 
 📕 [ZERO-A-ONE's Blog](https://www.anquanke.com/member.html?memberId=143126)
 
-🏫 Fuzhou University
+🏢 Chaitin Tech - 2022~ - Security Researcher
+
+🎓 Fuzhou University - 2018~2022 - Information Security
 
 ⚔️ Member of ROIS (2018): [::ROIS::](https://rois.io/)
 
