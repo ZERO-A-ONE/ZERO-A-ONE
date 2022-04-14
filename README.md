@@ -6,10 +6,10 @@
 
 📕 [ZERO-A-ONE's Blog](https://www.anquanke.com/member.html?memberId=143126)
 
-🏢 Chaitin Tech - 2022~ - Security Researcher
+🏢 Chaitin Tech (2022~Now): Security Researcher 
 
-🎓 Fuzhou University - 2018~2022 - Information Security
+🎓 Fuzhou University (2018~2022): Information Security 
 
-⚔️ Member of ROIS (2018): [::ROIS::](https://rois.io/)
+⚔️ Member of ROIS (2018~Now): [::ROIS::](https://rois.io/)
 
 🧑‍💻 Binary Security / IoT Security  / CTF Player
