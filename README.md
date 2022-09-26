@@ -4,7 +4,9 @@
 
 😄 ZERO-A-ONE 
 
-📕 [36 anquanke ZERO-A-ONE's Blog](https://www.anquanke.com/member.html?memberId=143126)
+📕 [360 anquanke](https://www.anquanke.com/member.html?memberId=143126)
+
+📕 [CSDN](https://blog.csdn.net/kelxLZ?spm=1000.2115.3001.5343)
 
 🏢 HUAWEI TECHNOLOGIES CO.LTD. (2021): Cloud Computing Development Engineer 
 
