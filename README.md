@@ -14,4 +14,4 @@
 
 ⚔️ Member of ROIS (2018~Now): [::ROIS::](https://rois.io/)
 
-🧑‍💻 Binary Security / IoT Security  / CTF Player
+🧑‍💻 Cloud Security / Mobile Security / Game Security / Binary CTF Player
