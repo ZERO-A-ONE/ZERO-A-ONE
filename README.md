@@ -8,7 +8,7 @@
 
 🏢 HUAWEI TECHNOLOGIES CO.LTD. (2021): Cloud Computing Development Engineer 
 
-🏢 Chaitin Tech (2022~Now): Security Research Engineer 
+🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~Now): Security Research Engineer 
 
 🎓 Fuzhou University (2018~2022): School of Computer and Big Data - Information Security 
 
