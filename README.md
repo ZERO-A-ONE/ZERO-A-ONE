@@ -17,3 +17,7 @@
 ⚔️ Member of Tea Deliverers && Water Paddler (2022~Now)
 
 🧑‍💻 Security Researcher | Developer | CTF Player
+
+## Publications
+
+[ASE 2023] "Scene-Driven Exploration and GUI Modeling for Android Apps", Xiangyu Zhang, Lingling Fan*, Sen Chen, Yucheng Su, and Boyuan Li, In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), 2023.
