@@ -12,7 +12,7 @@
 
 🏢 HUAWEI TECHNOLOGIES CO.LTD. - HUAWEI Cloud BG (2021): Cloud Computing Development Engineer 
 
-🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~Now): Security Research Engineer 
+🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~2024): Security Research Engineer 
 
 ## Blog
 
@@ -24,7 +24,7 @@
 
 ⚔️ Member of ROIS (2018~Now): [::ROIS::](https://rois.io/)
 
-⚔️ Member of Tea Deliverers && Water Paddler (2022~Now)
+⚔️ Member of Tea Deliverers && Water Paddler (2022~2024)
 
 ## Publications
 
