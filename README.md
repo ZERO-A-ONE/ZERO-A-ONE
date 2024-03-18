@@ -14,6 +14,8 @@
 
 🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~2024): Security Research Engineer 
 
+🏢 (Xiaohongshu/RedBook) Xingin Information Technology (Shanghai) Co Ltd - Intelligence and Offensive Defense Laboratory (2024~): Mobile Security Development Engineer 
+
 ## Blog
 
 📕 360 Blog (Stop updating) : [360 anquanke](https://www.anquanke.com/member.html?memberId=143126)
