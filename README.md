@@ -14,7 +14,7 @@
 
 🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~2024): Security Research Engineer 
 
-🏢 REDBOOK TECHNOLOGIES CO.LTD. - Intelligence and Offensive Defense Lab (2024~): Mobile Security Development Engineer 
+🏢 XiaoHongShu CO.LTD. - Intelligence and Offensive Defense Lab (2024~): Mobile Security Development Engineer 
 
 ## Blog
 
