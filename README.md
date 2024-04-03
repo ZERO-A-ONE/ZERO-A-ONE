@@ -6,7 +6,7 @@
 
 ## Education
 
-🎓 Undergraduate - Fuzhou University (2018~2022): School of Computer and Big Data - Information Security 
+🎓 Undergraduate - Fuzhou University [Project 211] (2018~2022): School of Computer and Big Data - Information Security 
 
 ## Work
 
