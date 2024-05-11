@@ -20,7 +20,7 @@
 
 📕 360 Blog (Stop updating) : [360 anquanke](https://www.anquanke.com/member.html?memberId=143126)
 
-📕 CSDN Blog (Stop updating) : [CSDN](https://blog.csdn.net/kelxLZ?spm=1000.2115.3001.5343)
+📕 CSDN Blog : [CSDN](https://blog.csdn.net/kelxLZ?spm=1000.2115.3001.5343)
 
 ## Organization
 
