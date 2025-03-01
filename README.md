@@ -2,7 +2,7 @@
 
 😄 ZERO-A-ONE 
 
-🧑‍💻 Security Researcher | Developer | CTF Player
+🧑‍💻 Security Researcher | Developer | CTF Player(PWN&RE&MISC)
 
 ## Education
 
