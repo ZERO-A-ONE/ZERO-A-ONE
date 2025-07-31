@@ -10,7 +10,7 @@
 
 ## Work
 
-🏢 HUAWEI TECHNOLOGIES CO.LTD. - HUAWEI Cloud BG (2021): Cloud Computing Development Engineer 
+🏢 Huawei Technologies Co.,Ltd. - Huawei Cloud (2021): Cloud Computing Development Engineer 
 
 🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~2024): Security Research Engineer 
 
