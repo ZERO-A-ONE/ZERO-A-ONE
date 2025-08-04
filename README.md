@@ -10,11 +10,11 @@
 
 ## Work
 
+🏢 Xiaohongshu(RedNote) Inc. - Intelligence and Offensive Defense Lab (2024~Now): Mobile Security Development Engineer
+
+🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~2024): Security Research Engineer
+
 🏢 Huawei Technologies Co.,Ltd. - Huawei Cloud (2021): Cloud Computing Development Engineer 
-
-🏢 Alibaba Cloud Intelligence - Chaitin Tech (2022~2024): Security Research Engineer 
-
-🏢 Xiaohongshu(RedNote) Inc. - Intelligence and Offensive Defense Lab (2024~): Mobile Security Development Engineer 
 
 ## Blog
 
