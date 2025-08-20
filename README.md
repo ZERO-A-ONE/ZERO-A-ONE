@@ -24,7 +24,7 @@
 
 ## Organization
 
-⚔️ Member of ROIS (2018~Now): [::ROIS::](https://rois.io/)
+⚔️ Member of ROIS (2018~Now): [::ROIS::](https://rois.team/)
 
 ## Publications
 
