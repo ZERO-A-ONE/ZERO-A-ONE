@@ -32,6 +32,6 @@
 
 ## Patents
 
-CN202410541378.6 - 《一种基于复合分析的安卓原生函数自动化测试方法》
+CN202410541378.6 - 《A Composite Analysis-Based Automated Testing Method for Native Android Functions》
 
-CN202110379602.2 - 《一种基于神经网络的混合网络模糊测试工具》
+CN202110379602.2 - 《A hybrid network fuzzing tool based on neural networks》
