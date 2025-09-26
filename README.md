@@ -30,7 +30,7 @@
 
 [ASE 2023] "Scene-Driven Exploration and GUI Modeling for Android Apps", Xiangyu Zhang, Lingling Fan*, Sen Chen, Yucheng Su, and Boyuan Li, In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), 2023. （CCF A / SCI District 1）
 
-[ASE 2025] "GlassWing: A Tailored Static Analysis Approach for Flutter", Xiangyu Zhang, Yucheng Su, Lingling Fan*, Miaoying Cai, and Sen Chen, In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), 2025. （CCF A / SCI District 1）
+[ASE 2025] "GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps", Xiangyu Zhang, Yucheng Su, Lingling Fan*, Miaoying Cai, and Sen Chen, In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), 2025. （CCF A / SCI District 1）
 
 ## Patents
 
