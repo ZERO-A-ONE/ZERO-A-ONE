@@ -40,5 +40,5 @@ CN202110379602.2 - "A hybrid network fuzzing tool based on neural networks"
 
 ## Publicly disclosed vulnerabilities
 
-CVE-2025-65213
+[CVE-2025-65213](https://nvd.nist.gov/vuln/detail/CVE-2025-65213)(9.8 CRITICAL)
 
