@@ -34,9 +34,9 @@
 
 ## Patents
 
-CN202410541378.6 - "A Composite Analysis-Based Automated Testing Method for Native Android Functions"
+CN202410541378.6(2024) - "A Composite Analysis-Based Automated Testing Method for Native Android Functions"
 
-CN202110379602.2 - "A hybrid network fuzzing tool based on neural networks"
+CN202110379602.2(2021) - "A hybrid network fuzzing tool based on neural networks"
 
 ## Publicly disclosed vulnerabilities
 
